@@ -7,7 +7,7 @@
 - 📈 Sempre focado em aprender mais sobre desenvolvimento.
 - 📚 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks.
 - 🏦 Fui gerente de banco por 4 anos e saí para me tornar engenheiro de software.
-- ⚡  Gosto de cozinhar, ir na academia e de fazer viagens.
+- ⚡  Gosto de cozinhar, ir na academia e carros.
 
 ### Da uma olhada no meu LinkedIn:
 
