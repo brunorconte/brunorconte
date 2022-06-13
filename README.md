@@ -40,7 +40,7 @@
 - 📈 Always dedicated to learn new skills e how to be a better developer.
 - 📚 Always studying React devolpemente ad its dependencies, while being available to work with different frameworks
 - 🏦 I was a bank manager for 4 years and left to become a software engineer. 
-- ⚡  I like to cook, hit the gym and go on trips.
+- ⚡  I like to cook, hit the gym and cars.
 
 ### Check my social media:
 
