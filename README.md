@@ -1,6 +1,6 @@
 <img align="left" alt="Git" width="36px" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/brazil-facebook.png" />
 
-### Eaí de boa? Eu sou o Bruno Conte - AKA Tyzzera 👋
+### Eaí de boa? Eu sou o Bruno Conte 👋
 
 ## Eu sou Estudante de MBA de Digital Business na USP, Desenvolvedor de Software & Entusiasta de Tecnologia:
 - 💻 Atualmente estou programando em JavaScript e ECL.
@@ -34,7 +34,7 @@
 ---
 <img align="left" alt="Git" width="36px" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/united-states-facebook.png" />
 
-### Sup? I'm Bruno Conte - AKA Tyzzera 👋
+### Sup? I'm Bruno Conte 👋
 ## I'm a MBA Student of Digitial Business at USP, Software Developer & Tech Enthusiast:
 - 💻 Currently programming in JavaScript and ECL.
 - 📈 Always dedicated to learn new skills e how to be a better developer.
