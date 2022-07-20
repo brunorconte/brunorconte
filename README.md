@@ -44,7 +44,7 @@
 
 ### Check my social media:
 
-[<img align="left" alt="Bruno Conte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" alt="Linkedin" align=left width=26 height=26>][linkedin]
 
 <br />
 
