@@ -11,23 +11,24 @@
 
 ### Da uma olhada no meu LinkedIn:
 
-[<img align="left" alt="Bruno Conte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img src="https://icon-library.com/images/linkedin-icon/linkedin-icon-1.jpg#gh-dark-mode-only" alt="Linkedin" align=left width=26 height=26>][linkedin]
 
 <br />
 
 ### Linguagens e Ferramentas que eu estou trabalhando:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg#gh-light-mode-only" alt="Php" align=left width=26 height=26><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/php-white.svg#gh-dark-mode-only" alt="Php" align=left width=26 height=26>
+<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg#gh-light-mode-only" alt="Laravel" align=left width=26 height=26><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/laravel-white.svg#gh-dark-mode-only" alt="Laravel" align=left width=26 height=26>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="github" align=left width=26 height=26><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg#gh-dark-mode-only" alt="github" align=left width=30 height=30>
+<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 
@@ -44,22 +45,23 @@
 
 ### Check my social media:
 
-[<img src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" alt="Linkedin" align=left width=26 height=26>][linkedin]
+[<img src="https://icon-library.com/images/linkedin-icon/linkedin-icon-1.jpg#gh-dark-mode-only" alt="Linkedin" align=left width=26 height=26>][linkedin]
 
 <br />
 
 ### Languages and tools that i work with:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/php.svg#gh-light-mode-only" alt="Php" align=left width=26 height=26><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/php-white.svg#gh-dark-mode-only" alt="Php" align=left width=26 height=26>
+<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/laravel.svg#gh-light-mode-only" alt="Laravel" align=left width=26 height=26><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/laravel-white.svg#gh-dark-mode-only" alt="Laravel" align=left width=26 height=26>
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg#gh-light-mode-only" alt="github" align=left width=26 height=26><img src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg#gh-dark-mode-only" alt="github" align=left width=30 height=30>
+<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [linkedin]: https://www.linkedin.com/in/bruno-conte-407259189/
