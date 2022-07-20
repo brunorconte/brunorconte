@@ -5,7 +5,7 @@
 ## Eu sou Estudante de MBA de Digital Business na USP, Desenvolvedor de Software & Entusiasta de Tecnologia:
 - 💻 Atualmente estou programando em Laravel PHP e VueJs usando Typescript como engenheiro de software na empresa LexisNexis Risk Soltions.
 - 📈 Sempre focado em aprender mais sobre desenvolvimento.
-- 📚 Sempre estudando desenvolvimento com React e suas dependencias, mas disposto a trabalhar com outras frameworks.
+- 📚 Estudando continuamente o desenvolvimento fullstack em web com foco em single page applications(VueJS e Laravel/Lumen PHP).
 - 🏦 Fui gerente de banco por 4 anos e saí para me tornar engenheiro de software.
 - ⚡  Gosto de cozinhar, ir na academia e carros.
 
@@ -38,7 +38,7 @@
 ## I'm a MBA Student of Digitial Business at USP, Software Developer & Tech Enthusiast:
 - 💻 Currently programming in Laravel PHP and VueJs using typescript as a software engineer at LexisNexis Risk Solutions.
 - 📈 Always dedicated to learn new skills e how to be a better developer.
-- 📚 Always studying React devolpemente ad its dependencies, while being available to work with different frameworks
+- 📚 Always studying fullstack development with a focus on single page applications(VueJS and Laravel/Lumen PHP).
 - 🏦 I was a bank manager for 4 years and left to become a software engineer. 
 - ⚡  I like to cook, hit the gym and cars.
 
