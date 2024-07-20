@@ -1,9 +1,8 @@
-I'm Web developer, graduated in business and postgraduate in Digital Business
-- 💻 Currently programming in Laravel PHP and VueJs using typescript as a software engineer at LexisNexis Risk Solutions.
+I'm Software Engineer, graduated in business and postgraduate in Digital Business
+- 💻 Currently programming mostly in PHP, TypeScript and JavaScript.
 - 📈 Always dedicated to learn new skills e how to be a better developer.
-- 📚 Always studying fullstack development with a focus on single page applications(VueJS and Laravel/Lumen PHP).
-- 🏦 I was a bank manager for 4 years and left to become a software engineer. 
-- ⚡  I also cook, play Counter-Strike and hit the gym.
+- 📚 Always studying new technologies, such as Docker, Kubernetes, and many others.
+- 🚴🏽 I'm also an amateur cyclist and entrepeneur.
 
 ### Check my social media:
 
