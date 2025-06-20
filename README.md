@@ -2,7 +2,7 @@ I'm Software Engineer, graduated in business and postgraduate in Digital Busines
 - 💻 Currently programming mostly in PHP, TypeScript and JavaScript.
 - 📈 Always dedicated to learn new skills e how to be a better developer.
 - 📚 Always studying new technologies, such as Docker, Kubernetes, and many others.
-- 🚴🏽 I'm also an amateur cyclist and entrepeneur.
+- 🏊🏻‍♂️🚴🏽🏃🏻‍♂️ I'm also a triathlete and entrepeneur.
 
 ### Check my social media:
 
